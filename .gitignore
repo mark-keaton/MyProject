@@ -1,0 +1,9 @@
+# Compiled source #
+###################
+*.pyc
+
+# IDE Files #
+############
+*.xml
+*.iml
+*.name
